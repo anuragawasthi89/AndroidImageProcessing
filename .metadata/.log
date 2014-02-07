@@ -308,3 +308,46 @@ Binding(CTRL+SHIFT+\,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SESSION 2014-02-08 01:49:52.959 -----------------------------------------------
+eclipse.buildId=v22.3.0-887826
+java.version=1.6.0_45
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-02-08 01:49:57.503
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.561
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarStyle for the current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.566
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarStyle for the current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.567
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarStyle for the current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.567
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarStyle for the current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.568
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarStyle for the current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.569
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarButtonStyle for the current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.574
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarButtonStyle for the current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.575
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarButtonStyle for the current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.577
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarButtonStyle for the current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.578
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarButtonStyle for the current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-02-08 01:59:27.579
+!MESSAGE activity_view_cam_calibrations.xml: Couldn't find theme resource buttonBarButtonStyle for the current theme

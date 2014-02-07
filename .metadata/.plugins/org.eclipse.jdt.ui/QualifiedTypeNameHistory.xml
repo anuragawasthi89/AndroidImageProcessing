@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="com.example.cvprocessor.ViewCamCalibrations"/>
+<fullyQualifiedTypeName name="com.example.cvprocessor.MainWindow"/>
+</qualifiedTypeNameHistroy>
