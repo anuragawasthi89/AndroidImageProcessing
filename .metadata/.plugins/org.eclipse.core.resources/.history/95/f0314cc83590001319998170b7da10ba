@@ -1,7 +1,0 @@
-package com.example.cvprocessor;
-
-import android.app.Activity;
-
-public class ViewCamCalibrations extends Activity {
-
-}

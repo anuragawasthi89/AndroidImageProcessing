@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
+scalability.numberOfLines=50000
+sourceHoverBackgroundColor=255,255,255
 spelling_locale=en_GB
 spelling_locale_initialized=true
 useAnnotationsPrefPage=true

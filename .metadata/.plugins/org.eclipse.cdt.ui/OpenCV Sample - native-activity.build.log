@@ -1,0 +1,8 @@
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+jni/Android.mk:5: ../../sdk/native/jni/OpenCV.mk: No such file or directory
+make: *** No rule to make target `../../sdk/native/jni/OpenCV.mk'.  Stop.
+
+**** Build Finished ****

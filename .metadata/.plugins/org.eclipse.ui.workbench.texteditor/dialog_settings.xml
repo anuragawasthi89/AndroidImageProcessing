@@ -3,27 +3,29 @@
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="312" key="DIALOG_WIDTH"/>
 		<item value="39" key="DIALOG_Y_ORIGIN"/>
-		<item value="437" key="DIALOG_HEIGHT"/>
 		<item value="984" key="DIALOG_X_ORIGIN"/>
+		<item value="437" key="DIALOG_HEIGHT"/>
 		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="true" key="wrap"/>
-		<item value="false" key="isRegEx"/>
 		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="mHideRunnable" key="selection"/>
+		<item value="com_example_cvprocessor" key="selection"/>
 		<list key="findhistory">
+			<item value="org_example_cvprocessor"/>
+			<item value="org_example"/>
+			<item value="Java_org_opencv_samples_facedetect_DetectionBasedTracker"/>
+			<item value="TAG"/>
 			<item value="mHideRunnable"/>
 			<item value="TOGGLE_ON_CLICK"/>
 			<item value="exit_button"/>
 			<item value="dummy_button"/>
-			<item value="contentView"/>
-			<item value="contentsView"/>
-			<item value="controlsView"/>
 		</list>
 		<list key="replacehistory">
+			<item value="com_example_cvprocessor"/>
 		</list>
 	</section>
 </section>

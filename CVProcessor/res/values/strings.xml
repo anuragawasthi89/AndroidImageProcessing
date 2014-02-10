@@ -8,5 +8,7 @@
     <string name="face_tracking_button">Face Tracker</string>
     
     <string name="main_menu_button">Main Menu</string>
+    
+    <string name="cam_calibration_title">View Camera Calibrations</string>
 
 </resources>

@@ -1,0 +1,753 @@
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd 
+
+Cannot run program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd": Unknown reason
+Error: Program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd" is not found in PATH
+
+PATH=[/home/aa/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd 
+
+Cannot run program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd": Unknown reason
+Error: Program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd" is not found in PATH
+
+PATH=[/home/aa/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd 
+
+Cannot run program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd": Unknown reason
+Error: Program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd" is not found in PATH
+
+PATH=[/home/aa/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd 
+
+Cannot run program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd": Unknown reason
+Error: Program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd" is not found in PATH
+
+PATH=[/home/aa/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd 
+
+Cannot run program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd": Unknown reason
+Error: Program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd" is not found in PATH
+
+PATH=[/home/aa/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd 
+
+Cannot run program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd": Unknown reason
+Error: Program "/home/aa/AndroidKit/android-ndk-r9c/ndk-build.cmd" is not found in PATH
+
+PATH=[/home/aa/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games]
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+jni/Android.mk:5: ../../sdk/native/jni/OpenCV.mk: No such file or directory
+make: *** No rule to make target `../../sdk/native/jni/OpenCV.mk'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+jni/Android.mk:5: ../../sdk/native/jni/OpenCV.mk: No such file or directory
+make: *** No rule to make target `../../sdk/native/jni/OpenCV.mk'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+jni/Android.mk:5: ../../sdk/native/jni/OpenCV.mk: No such file or directory
+make: *** No rule to make target `../../sdk/native/jni/OpenCV.mk'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - native-activity ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+jni/Android.mk:5: ../../sdk/native/jni/OpenCV.mk: No such file or directory
+make: *** No rule to make target `../../sdk/native/jni/OpenCV.mk'.  Stop.
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Compile++ thumb: detection_based_tracker <= DetectionBasedTracker_jni.cpp
+[armeabi-v7a] SharedLibrary  : libdetection_based_tracker.so
+/home/aa/AndroidKit/android-ndk-r9c/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: hidden symbol '__aeabi_atexit' in /home/aa/AndroidKit/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/libs/armeabi-v7a/libgnustl_static.a(atexit_arm.o) is referenced by DSO ./obj/local/armeabi-v7a/libopencv_java.so
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project OpenCV Sample - face-detection ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Compile++ thumb: detection_based_tracker <= DetectionBasedTracker_jni.cpp
+[armeabi-v7a] SharedLibrary  : libdetection_based_tracker.so
+/home/aa/AndroidKit/android-ndk-r9c/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: hidden symbol '__aeabi_atexit' in /home/aa/AndroidKit/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/libs/armeabi-v7a/libgnustl_static.a(atexit_arm.o) is referenced by DSO ./obj/local/armeabi-v7a/libopencv_java.so
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Compile++ thumb: detection_based_tracker <= DetectionBasedTracker_jni.cpp
+[armeabi-v7a] SharedLibrary  : libdetection_based_tracker.so
+/home/aa/AndroidKit/android-ndk-r9c/toolchains/arm-linux-androideabi-4.6/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.6/../../../../arm-linux-androideabi/bin/ld: warning: hidden symbol '__aeabi_atexit' in /home/aa/AndroidKit/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/libs/armeabi-v7a/libgnustl_static.a(atexit_arm.o) is referenced by DSO ./obj/local/armeabi-v7a/libopencv_java.so
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****
+
+**** Build of configuration Default for project CVProcessor ****
+
+/home/aa/AndroidKit/android-ndk-r9c/ndk-build 
+[armeabi-v7a] Install        : libdetection_based_tracker.so => libs/armeabi-v7a/libdetection_based_tracker.so
+[armeabi-v7a] Install        : libnative_camera_r2.2.0.so => libs/armeabi-v7a/libnative_camera_r2.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r2.3.3.so => libs/armeabi-v7a/libnative_camera_r2.3.3.so
+[armeabi-v7a] Install        : libnative_camera_r3.0.1.so => libs/armeabi-v7a/libnative_camera_r3.0.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.0.so => libs/armeabi-v7a/libnative_camera_r4.0.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.0.3.so => libs/armeabi-v7a/libnative_camera_r4.0.3.so
+[armeabi-v7a] Install        : libnative_camera_r4.1.1.so => libs/armeabi-v7a/libnative_camera_r4.1.1.so
+[armeabi-v7a] Install        : libnative_camera_r4.2.0.so => libs/armeabi-v7a/libnative_camera_r4.2.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.3.0.so => libs/armeabi-v7a/libnative_camera_r4.3.0.so
+[armeabi-v7a] Install        : libnative_camera_r4.4.0.so => libs/armeabi-v7a/libnative_camera_r4.4.0.so
+[armeabi-v7a] Install        : libopencv_java.so => libs/armeabi-v7a/libopencv_java.so
+
+**** Build Finished ****

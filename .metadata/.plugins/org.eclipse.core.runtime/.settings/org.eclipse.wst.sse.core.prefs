@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-task-tag-projects-already-scanned=CVProcessor,OpenCV Library - 2.4.8
+task-tag-projects-already-scanned=CVProcessor,OpenCV Library - 2.4.8,OpenCV Sample - camera-calibration,OpenCV Sample - face-detection,SimpleCameraRGB

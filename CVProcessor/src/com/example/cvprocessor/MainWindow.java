@@ -49,7 +49,8 @@ public class MainWindow extends Activity {
 		
 		@Override
 		public boolean onTouch(View v, MotionEvent event) {
-			// TODO Auto-generated method stub
+			Intent intent = new Intent(getBaseContext(), FaceDetection.class);
+			startActivity(intent);
 			return false;
 		}
 	};

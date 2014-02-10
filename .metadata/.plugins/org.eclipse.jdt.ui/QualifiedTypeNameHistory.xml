@@ -3,4 +3,6 @@
 <fullyQualifiedTypeName name="android.content.Context"/>
 <fullyQualifiedTypeName name="com.example.cvprocessor.ViewCamCalibrations"/>
 <fullyQualifiedTypeName name="com.example.cvprocessor.MainWindow"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
